@@ -1,0 +1,247 @@
+C:\Users\Парвиз\source\repos\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe.config
+C:\Users\Парвиз\source\repos\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\source\repos\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\source\repos\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csprojAssemblyReference.cache
+C:\Users\Парвиз\source\repos\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.resources
+C:\Users\Парвиз\source\repos\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+C:\Users\Парвиз\source\repos\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.GenerateResource.cache
+C:\Users\Парвиз\source\repos\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\source\repos\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\source\repos\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\source\repos\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.resources
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csprojAssemblyReference.cache
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.resources
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.resources
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.GenerateResource.cache
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe.config
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe.config
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csprojAssemblyReference.cache
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.GenerateResource.cache
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form4.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form5.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CopyComplete
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form8.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form9.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form10.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form11.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form12.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form13.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form14.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ClassLibraryLab2.pdb
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ClassLibraryLab2.dll
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ClassLibraryLab2.xml
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form15.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form16.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form17.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form18.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form19.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ClassLibrary7.dll
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ClassLibrary7.pdb
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).xml
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form20.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form21.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ClassLibrary9.dll
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\bin\Debug\ClassLibrary9.pdb
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form22.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form23.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form24.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form25.resources
+C:\Users\Парвиз\Desktop\ГР\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form6.resources
+C:\Users\Парвиз\Desktop\Практика\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).xml
+C:\Users\Парвиз\Desktop\Практика\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\Практика\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csprojAssemblyReference.cache
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form22.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form23.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form24.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form25.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form10.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form11.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form12.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form13.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form15.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form16.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form17.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form8.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form9.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.GenerateResource.cache
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\Практика\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).xml
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csprojAssemblyReference.cache
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form22.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form23.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form24.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form25.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form10.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form11.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form12.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form13.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form15.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form16.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form17.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form8.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form9.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.GenerateResource.cache
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\Практическая работа\Практика\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).xml
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csprojAssemblyReference.cache
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form22.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form23.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form24.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form25.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form10.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form11.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form12.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form13.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form15.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form16.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form17.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form8.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form9.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.GenerateResource.cache
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\Практика\Тешаев.П.Р Разин А.Ю группа БСТ1703\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).xml
+C:\Users\Парвиз\Desktop\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form22.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form23.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form24.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form25.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form10.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form11.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form12.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form13.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form15.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form16.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form17.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form8.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form9.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.GenerateResource.cache
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.resources
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.resources
+C:\Users\Парвиз\Desktop\Практика С#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CopyComplete
+C:\Users\Парвиз\Desktop\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csprojAssemblyReference.cache
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).xml
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csprojAssemblyReference.cache
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form22.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form23.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form24.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form25.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form10.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form11.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form12.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form13.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form15.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form16.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form17.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form8.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form9.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.GenerateResource.cache
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CopyComplete
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.resources
+C:\Users\Парвиз\Desktop\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form4.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).xml
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\bin\Debug\System.Data.SQLite.dll
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csprojAssemblyReference.cache
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form4.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form22.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form23.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form24.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form25.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form10.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form11.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form12.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form13.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form15.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form16.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form17.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form8.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form9.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.GenerateResource.cache
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CoreCompileInputs.cache
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CopyComplete
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+D:\УЧЕБА\5 СЕМЕСТР\СИМРИС\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).xml
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csprojAssemblyReference.cache
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form22.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form23.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form24.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form25.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form11.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form12.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form13.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form15.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form16.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form17.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form8.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form9.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.GenerateResource.cache
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).csproj.CopyComplete
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form100.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form4.resources

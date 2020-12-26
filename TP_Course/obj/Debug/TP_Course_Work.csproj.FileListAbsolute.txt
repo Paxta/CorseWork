@@ -1,0 +1,38 @@
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\TP_Course_Work.csprojAssemblyReference.cache
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\TP_Course_Work.csproj.GenerateResource.cache
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).xml
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\TP_Course_Work.csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\TP_Course_Work.csproj.CopyComplete
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form5.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form6.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form4.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Практика С#\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.kalkulator.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).xml
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\bin\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\bin\Debug\System.Data.SQLite.dll
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\TP_Course_Work.csprojAssemblyReference.cache
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.kalkulator.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form5.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form6.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form4.resources
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\TP_Course_Work.csproj.GenerateResource.cache
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\TP_Course_Work.csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\TP_Course_Work.csproj.CopyComplete
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).exe
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\Tp_Course\obj\Debug\ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП).pdb

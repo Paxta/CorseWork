@@ -1,0 +1,14 @@
+C:\Users\Парвиз\source\repos\TPWebCourse\TPWebCourse\bin\TPWebCourse.dll.config
+C:\Users\Парвиз\source\repos\TPWebCourse\TPWebCourse\bin\TPWebCourse.dll
+C:\Users\Парвиз\source\repos\TPWebCourse\TPWebCourse\bin\TPWebCourse.pdb
+C:\Users\Парвиз\source\repos\TPWebCourse\TPWebCourse\obj\Debug\TPWebCourse.csprojAssemblyReference.cache
+C:\Users\Парвиз\source\repos\TPWebCourse\TPWebCourse\obj\Debug\TPWebCourse.csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\source\repos\TPWebCourse\TPWebCourse\obj\Debug\TPWebCourse.dll
+C:\Users\Парвиз\source\repos\TPWebCourse\TPWebCourse\obj\Debug\TPWebCourse.pdb
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\TPWebCourse\TPWebCourse\bin\TPWebCourse.dll.config
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\TPWebCourse\TPWebCourse\bin\TPWebCourse.dll
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\TPWebCourse\TPWebCourse\bin\TPWebCourse.pdb
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\TPWebCourse\TPWebCourse\obj\Debug\TPWebCourse.csprojAssemblyReference.cache
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\TPWebCourse\TPWebCourse\obj\Debug\TPWebCourse.csproj.CoreCompileInputs.cache
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\TPWebCourse\TPWebCourse\obj\Debug\TPWebCourse.dll
+C:\Users\Парвиз\Desktop\TP\TP_Course_work\TPWebCourse\TPWebCourse\obj\Debug\TPWebCourse.pdb

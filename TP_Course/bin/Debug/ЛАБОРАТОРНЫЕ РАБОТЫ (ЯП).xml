@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ЛАБОРАТОРНЫЕ РАБОТЫ (ЯП)</name>
+    </assembly>
+    <members>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.id">
+            <summary>
+            Идентификатор студента
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.name">
+            <summary>
+            Имя студента
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.email">
+            <summary>
+            Mail студента
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.name_subject">
+            <summary>
+             Название придмета
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.name_test">
+            <summary>
+            Название теста
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.time">
+            <summary>
+            Время на прохождение теста
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.number_questions">
+            <summary>
+            Количество вопросов в тесте
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.minimum_percent">
+            <summary>
+            Минимум процентов для прохождения тестирования
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.test_link">
+            <summary>
+            Ссылка на тест
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.table_guestions">
+            <summary>
+            Таблица вопросов
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.id_test">
+            <summary>
+            id_test
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.kalkulator.components">
+            <summary>
+            Требуется переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.kalkulator.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.kalkulator.InitializeComponent">
+            <summary>
+            Обязательный метод для поддержки конструктора - не изменяйте
+            содержимое данного метода при помощи редактора кода.
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.answers">
+            <summary>
+            Для проверки правильности ответа
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.true_answers">
+            <summary>
+            Количество правильных ответов
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.false_answers">
+            <summary>
+            Количество неправильные ответы
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.mas_answers">
+            <summary>
+            Массив сохранения ответов каждого элемента
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.buttons">
+            <summary>
+            Количество вопросов в кнопках
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.question">
+            <summary>
+            Вопрос
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form3.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form7.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form6.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form6.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form6.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+        <member name="P:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Properties.Resources.red">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form5.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form5.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form5.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="F:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form4.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form4.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ЛАБОРАТОРНЫЕ_РАБОТЫ__ЯП_.Form4.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>
